@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Miller Santana</h1>
-<h3 align="center">Entusiasta da ciência e análise de dados no mundo digital</h3>
+<h3 align="center">Trabalho com CRM e Análise de dados há cerca de 3 anos</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, R Studio, Power BI e Machine Learning**
+- 🌱 Atualmente estou melhorando minhas habilidades em **Python, Power BI e Front-End**
 
-- 💬 Me Pergunte sobre **SQL, Power BI e Python**
+- 💬 Me Pergunte sobre **SQL, Power BI, Python e Web Design **
 
 - 📫 Você me acha **millernew@hotmail.com**
 
